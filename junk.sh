@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-echo hello world7
+echo hello world10
 
 echo this is a 2nd line
 
